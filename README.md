@@ -50,9 +50,19 @@ Key Cleaning Steps:
 - Handled null values
 - Created Age Groups for demographic analysis
 
-## The following KPIs were developed to monitor operational and financial performance:
+## KPIs
+The following KPIs were developed to monitor operational and financial performance:
 - Total Appointments
 - No-Show Rate (%)
 - Provider Utilization (%)
 - Average Wait Time
 
+## Insights
+- No-show rate by month
+- No-show rate by age group
+- Total appointment by insurance type
+- Provider utilization across specialty
+
+## Business Impacts
+- 
+ 
