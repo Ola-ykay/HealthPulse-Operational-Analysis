@@ -64,5 +64,16 @@ The following KPIs were developed to monitor operational and financial performan
 - Provider utilization across specialty
 
 ## Business Impacts
-- 
- 
+- Lowering no-show rates
+- Improving better appointment management
+- Implementing shorter wait times and proactive reminders to keep patients happy
+
+## Data Snapshots
+  ![dashboard]()
+  
+## Conclusion
+The analysis of HealthPulse clinic operations highlights that high no-show rates and extended patient wait times are the primary drivers of revenue loss and reduced patient satisfaction. By identifying patterns in no-show behavior, such as specific age groups, days of the week, and appointment times, the project provides actionable insights for proactive intervention.
+
+Additionally, monitoring average wait times across clinics revealed inefficiencies in provider scheduling and utilization. Addressing these bottlenecks can shorten patient wait times, improve clinic flow, and enhance the overall patient experience.
+
+This project equips HealthPulse with data-driven strategies to reduce no-shows, optimize scheduling, and improve operational efficiency, directly impacting revenue, patient satisfaction, and provider workload.
