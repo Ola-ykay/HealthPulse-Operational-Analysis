@@ -73,7 +73,7 @@ Filter by year
 - Implementing shorter wait times and proactive reminders to keep patients happy
 
 ## Data Snapshots
-  ![dashboard]()
+  ![dashboard](https://github.com/Ola-ykay/HealthPulse-Operational-Analysis/blob/main/HealthPulse-Dashboard.png)
   
 ## Conclusion
 The analysis of HealthPulse clinic operations highlights that high no-show rates and extended patient wait times are the primary drivers of revenue loss and reduced patient satisfaction. By identifying patterns in no-show behavior, such as specific age groups, days of the week, and appointment times, the project provides actionable insights for proactive intervention.
