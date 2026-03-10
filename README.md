@@ -7,6 +7,7 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [KPIs](#kpis)  
 - [Insights](#insights)
+- [Slicers](#slicers)
 - [Business Impacts](#business-impacts)
 - [Data Snapshots](#data-snapshots)
 - [Conclusion](#conclusion)
@@ -62,6 +63,9 @@ The following KPIs were developed to monitor operational and financial performan
 - No-show rate by age group
 - Total appointment by insurance type
 - Provider utilization across specialty
+
+## Slicers
+Filter by year
 
 ## Business Impacts
 - Lowering no-show rates
